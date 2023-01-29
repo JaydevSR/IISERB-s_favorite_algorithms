@@ -9,6 +9,8 @@
 
 ### Example Algorithm
 
-**File**: https://github.com/JaydevSR/IISER-s_favorite_algorithms/algorithms/example.txt
+Name: Saunov Abish
+
+**Link to File**: https://github.com/JaydevSR/IISERB-s_favorite_algorithms/blob/main/algorithms/example.txt
 
 This is the description of example algorithm. Add your algorithms **below** (Please maintain alphabetical order)
