@@ -9,6 +9,6 @@
 
 ### Example Algorithm
 
-**File**: https://JaydevSR/IISER-s_favorite_algorithms/algorithms/example.txt
+**File**: https://github.com/JaydevSR/IISER-s_favorite_algorithms/algorithms/example.txt
 
 This is the description of example algorithm. Add your algorithms **below** (Please maintain alphabetical order)
