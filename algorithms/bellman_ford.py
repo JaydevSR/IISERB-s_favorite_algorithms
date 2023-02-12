@@ -69,7 +69,7 @@ def add_edges():
     
     dict_edges={}
     
-    f= input('Now you have to input the details for different edges in the graph. Press any key to stop giving details (press c to continue): ')
+    f= input('Now you have to input the details for different edges in the graph.\nPress any key to stop giving details (press c to continue): ')
     
     if f == 'c':
         k=True
