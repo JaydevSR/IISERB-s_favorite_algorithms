@@ -34,7 +34,7 @@ class Graph :
         
 
 
-    def bellman_ford(self,j):
+    def bellman_ford(self, j):
         self.single_source(j)
         for i in range(len(self.vertices)-1):
             for i in self.edges:
