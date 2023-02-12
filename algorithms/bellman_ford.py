@@ -61,7 +61,7 @@ dict_vertices= {}
 for i in range(1,num_vertices+1):
     dict_vertices[i]= vertex()
  
-d=input('The name of the vertices is numeric that is from 1 to n where n is the number of vertices. Press any key to continue : ')
+d=input('The name of the vertices is numeric that is from 1 to n where n is the number of vertices.\nPress any key to continue : ')
 
 def add_edges():
     
