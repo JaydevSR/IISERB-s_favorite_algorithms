@@ -14,3 +14,14 @@ Name: Saunov Abish
 **Link to File**: https://github.com/JaydevSR/IISERB-s_favorite_algorithms/blob/main/algorithms/example.txt
 
 This is the description of example algorithm. Add your algorithms **below** (Please maintain alphabetical order)
+
+
+### Bellman-Ford Algorithm
+
+Name : Kumar Katyayan Jaiswal
+
+**Link to File**: https://github.com/JaydevSR/IISERB-s_favorite_algorithms/blob/main/algorithms/bellman_ford.py
+
+Implementation of the Bellman-Ford algorithm in python. 
+
+Running the python file returns the Minimum Spanning Tree obtained by implementing the algorithm on a directed graph. In order calculate the Vertex distance from the Source Vertex , just the add the weights of all the edges in the path from the souce vertex to the Vertex.
