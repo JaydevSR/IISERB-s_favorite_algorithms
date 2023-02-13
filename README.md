@@ -24,4 +24,7 @@ Name : Kumar Katyayan Jaiswal
 
 Implementation of the Bellman-Ford algorithm in python. 
 
-Running the python file returns the Minimum Spanning Tree obtained by implementing the algorithm on a directed graph. In order calculate the Vertex distance from the Source vertex, just the add the weights of all the edges in the path from the source vertex to the Vertex.
+Running the python file returns the Minimum Spanning Tree obtained by implementing the algorithm on the directed graph provided as input . In order to calculate the Vertex distance from the Source vertex, just the add the weights of all the edges in the path from the source vertex to the Vertex.
+
+ 
+ Implementation Instructions : Just run the python file and keep entering the inputs asked during the runtime.
