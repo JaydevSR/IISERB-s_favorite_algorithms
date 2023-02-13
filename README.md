@@ -9,7 +9,7 @@
 
 ### Example Algorithm
 
-Name: Saunov Abish
+Name: Kimi Nonawa
 
 **Link to File**: https://github.com/JaydevSR/IISERB-s_favorite_algorithms/blob/main/algorithms/example.txt
 
